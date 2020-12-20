@@ -1,4 +1,4 @@
-# What is it about ? 
+# TargetShooter
 This is an integrated code of a mp3 player(cheering minion sound) and cool faded led strip.
 
 
